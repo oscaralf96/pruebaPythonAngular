@@ -6,4 +6,4 @@ pillow
 djangorestframework
 pyyaml
 requests
-django-cors-headers
+django-cors-headers 
