@@ -1,0 +1,9 @@
+django
+django-environ
+psycopg2
+gunicorn
+pillow
+djangorestframework
+pyyaml
+requests
+django-cors-headers
