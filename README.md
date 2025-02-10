@@ -13,3 +13,7 @@ Unicamente el backend esta realizadon con docker.
 2. crear superusuario para autenticacion (base auth): 
     user: admin
     password: adminpass
+
+
+
+La rama main esta al nivel de la rama readme/oscarGonzalez. Ambas contienen el proyecto terminado
